@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Beacon-Console-Test/static/css/main.2074427e.css",
+    "main.js": "/Beacon-Console-Test/static/js/main.a98a8548.js",
+    "index.html": "/Beacon-Console-Test/index.html",
+    "main.2074427e.css.map": "/Beacon-Console-Test/static/css/main.2074427e.css.map",
+    "main.a98a8548.js.map": "/Beacon-Console-Test/static/js/main.a98a8548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2074427e.css",
+    "static/js/main.a98a8548.js"
+  ]
+}
