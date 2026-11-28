@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Beacon-Console-Test/static/css/main.b72f9e82.css",
-    "main.js": "/Beacon-Console-Test/static/js/main.f94f5f38.js",
+    "main.css": "/Beacon-Console-Test/static/css/main.9157f6c3.css",
+    "main.js": "/Beacon-Console-Test/static/js/main.5121b19b.js",
     "index.html": "/Beacon-Console-Test/index.html",
-    "main.b72f9e82.css.map": "/Beacon-Console-Test/static/css/main.b72f9e82.css.map",
-    "main.f94f5f38.js.map": "/Beacon-Console-Test/static/js/main.f94f5f38.js.map"
+    "main.9157f6c3.css.map": "/Beacon-Console-Test/static/css/main.9157f6c3.css.map",
+    "main.5121b19b.js.map": "/Beacon-Console-Test/static/js/main.5121b19b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b72f9e82.css",
-    "static/js/main.f94f5f38.js"
+    "static/css/main.9157f6c3.css",
+    "static/js/main.5121b19b.js"
   ]
 }
